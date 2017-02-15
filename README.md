@@ -1,5 +1,5 @@
 # 98point6-Challenge
-Drop token coding challenge done for 98point6
+Drop token coding challenge done for 98point6.
 
 <h2>Files</h2>
 The repository holds the following important files:
@@ -17,7 +17,7 @@ $ javac DropToken.java
 $ java DropToken
 ```
 
-Alternatively, the code can also be run by creating a project out of the code provided in the repository within an IDE such as IntelliJ or Eclipse. The commands used to play the game, as provided in the project specification, are as follows:
+Alternatively, the code can also be run by creating a project out of the code provided in the repository within an IDE such as IntelliJ or Eclipse. Once the game begins running, the commands used to play the game, as provided in the project specification, are as follows:
 
 <ul>
 <li>PUT - (column) (OK | ERROR | WIN | DRAW)</li>

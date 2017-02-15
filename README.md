@@ -5,7 +5,7 @@ Drop token coding challenge done for 98point6.
 The repository holds the following important files:
 
 <ul>
-<li>DropToken.java - The file containing the code that runs the game</li>
+<li>DropToken.java - The file containing the code that runs the game.</li>
 <li>DropTokenTest.java - The file containing test code for the more complex functionality of DropToken.java. Can be run after properly setting up a project within an IDE such as IntelliJ or Eclipse. Depends on JUnit4 in order to run tests.</li>
 </ul>
 

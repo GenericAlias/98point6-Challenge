@@ -22,7 +22,7 @@ public class DropToken {
 	// Constructor for testing
 	public DropToken(int[][] board) {
 		this.board = board;
-		this.moves = new ArrayList<>();
+		this.moves = new ArrayList<Integer>();
 	}
 
 	// Takes in a column and a player number. Attempts to place a piece into that column

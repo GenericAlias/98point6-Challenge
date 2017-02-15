@@ -20,7 +20,7 @@ $ java DropToken
 Alternatively, the code can also be run by creating a project out of the code provided in the repository within an IDE such as IntelliJ or Eclipse. Once the game begins running, the commands used to play the game, as provided in the project specification, are as follows:
 
 <ul>
-<li>PUT - (column) (OK | ERROR | WIN | DRAW)</li>
+<li>PUT (column) - (OK | ERROR | WIN | DRAW)</li>
 <li>GET - List of columns that have been successfully put to</li>
 <li>BOARD - a 4x4 matrix that shows the board state</li>
 <li>EXIT - Exits the game</li>
